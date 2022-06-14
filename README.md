@@ -2,7 +2,8 @@
 Exercicios de lógica de programação em Java 
  
  LAÇOS DE REPETIÇÃO
- 1 - Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou zero.
+1 - Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou zero.
+ 
 2. Faça um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
 3. Faça um programa que leia  3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
 4.  Faça um programa que leia 10 valores informados pelo usuário, calcule, exiba os números informados e escreva a média aritmética desses valores lidos.
